@@ -1,0 +1,8 @@
+{
+  "name": "MoneyFlow",
+  "app_id": "d9fd65f3",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
